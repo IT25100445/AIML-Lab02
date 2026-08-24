@@ -1,1 +1,51 @@
+Exercise 2 – LLM Leaderboard
+
+1. Favorite LLM Rank
+Model: GPT-5.6 Sol (max) — OpenAI
+Leaderboard: Artificial Analysis Intelligence Index (artificialanalysis.ai/leaderboards/models)
+Rank: #5 overall
+Score: 61
+Other stats: $1.23 cost per task, 73 tokens/s median speed, ~104s total end-to-end response time
+
+
+
+ 
+Figure 1: Artificial Analysis leaderboard showing GPT-5.6 Sol (max) ranked #5.
+
+2. New Models Tried
+●	Qwen3
+●	Kimi K2.5
+
+
+3. Prompt 1 (Reasoning) — Bat and Ball Problem
+Prompt used: "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Explain your reasoning step by step."
+Qwen3 Response
+
+ 
+Figure 2: Qwen3's response to the bat and ball problem.
+Kimi K2.5 Response
+
+ 
+Figure 3: Kimi K2.5's response to the bat and ball problem.
+
+
+
+
+
+4. Prompt 2 (Practical/Creative) — Study Plan
+Prompt used: "Write a short study plan for a university student who has one week to prepare for a probability and statistics exam, assuming they're starting from zero and are also busy with other coursework."Qwen3 Response
+
+ 
+
+
+
+
+
+Figure 4–5: Qwen3's 7-day study plan.
+
+Kimi K2.5 Response
+ 
+Figure 6: Kimi K2.5's 7-day study plan.
+
+ 
 
